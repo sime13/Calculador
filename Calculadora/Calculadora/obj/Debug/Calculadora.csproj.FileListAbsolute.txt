@@ -1,0 +1,10 @@
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\asimu\OneDrive\Documentos\Github Project\Projeto Calculadora\Calculador\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
